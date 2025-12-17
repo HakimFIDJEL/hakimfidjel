@@ -2,7 +2,18 @@
 
 ## 👋 Bio
 
-Ingénieur fullstack et étudiant en informatique à IG2I Centrale Lille (2021-2026). Passionné par le développement web et les architectures backend, je travaille actuellement en alternance chez Réservoir Digital à Dunkerque.
+Fullstack engineer and computer science engineer student at IG2I Centrale Lille (2021-2026). Passionate about web development and backend architectures, currently working as a fullstack engineer apprentice at Réservoir Digital in Dunkerque.
+
+## 🔗 Links
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-hakimfidjel.com-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hakimfidjel.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hakim_Fidjel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakim-fidjel)
+[![Twitter](https://img.shields.io/badge/Twitter-@hakimfidjel-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hakimfidjel)
+
+## 📊 GitHub Stats
+
+![Hakim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hakimfidjel\&show_icons=true\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hakimfidjel\&layout=compact\&theme=radical)
 
 ## 🛠 Stack & Tools
 
@@ -26,7 +37,7 @@ Ingénieur fullstack et étudiant en informatique à IG2I Centrale Lille (2021-2
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-000000?style=for-the-badge)
 
-**Bases de données:**  
+**Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL/SQL-002C5F?style=for-the-badge)
@@ -34,7 +45,7 @@ Ingénieur fullstack et étudiant en informatique à IG2I Centrale Lille (2021-2
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Logiciel / Langages:**  
+**Languages / Software:**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -66,14 +77,14 @@ Ingénieur fullstack et étudiant en informatique à IG2I Centrale Lille (2021-2
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Nifi](https://img.shields.io/badge/Nifi-FF0000?style=for-the-badge)
 
-**Bases de données / Outils Admin:**  
+**Databases / Admin Tools:**  
 ![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-003366?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![PgAdmin](https://img.shields.io/badge/PgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Datagrip](https://img.shields.io/badge/DataGrip-0F75BC?style=for-the-badge&logo=datagrip&logoColor=white)
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![DataBricks](https://img.shields.io/badge/DataBricks-F58025?style=for-the-badge)
 
-**Outils:**  
+**Tools:**  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker Desktop](https://img.shields.io/badge/Docker_Desktop-2496ED?style=for-the-badge)
@@ -85,17 +96,6 @@ Ingénieur fullstack et étudiant en informatique à IG2I Centrale Lille (2021-2
 ![Draw.io](https://img.shields.io/badge/Draw.io-FF5722?style=for-the-badge)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge)
 
-## 🔗 Liens
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-hakimfidjel.com-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hakimfidjel.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hakim_Fidjel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakim-fidjel)
-[![Twitter](https://img.shields.io/badge/Twitter-@hakimfidjel-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hakimfidjel)
-
-## 📊 GitHub Stats
-
-![Hakim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hakimfidjel\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hakimfidjel\&layout=compact\&theme=radical)
-
 ---
 
-*Ce profil est maintenu pour refléter mes projets, mes compétences et mon évolution en développement web et DevOps.*
+*This profile is maintained to reflect my projects, skills, and progress in web development and DevOps.*
