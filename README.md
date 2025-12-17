@@ -13,7 +13,6 @@ Fullstack engineer and computer science engineer student at IG2I Centrale Lille 
 ## 📊 GitHub Stats
 
 ![Hakim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hakimfidjel\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hakimfidjel\&layout=compact\&theme=radical)
 
 ## 🛠 Stack & Tools
 
