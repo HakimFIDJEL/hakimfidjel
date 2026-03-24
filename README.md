@@ -6,7 +6,7 @@ Fullstack engineer and computer science engineer student at IG2I Centrale Lille 
 
 ## 🔗 Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hakimfidjel.com-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hakimfidjel.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hakimfidjel.fr-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hakimfidjel.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hakim_Fidjel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakim-fidjel)
 [![Twitter](https://img.shields.io/badge/Twitter-@hakimfidjel-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hakimfidjel)
 
